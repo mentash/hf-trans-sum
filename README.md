@@ -1,6 +1,6 @@
 # hf-trans-sum
 
-NLP application for translating between multiple languages, summarizing long documents, and using open-source models from Meta using the transformers library from Hugging Face and PyTorch.
+NLP application for translating between multiple languages, I am using it to try English-German translations. It also summarizes long documents, and using open-source models from Meta using the transformers library from Hugging Face and PyTorch.
 
 ## Overview
 
